@@ -27,7 +27,6 @@ It allows users to insert, search, and view slang words efficiently, including f
 ---
 
 ## Tech Stack  
-- **C**
 
 ###
 
